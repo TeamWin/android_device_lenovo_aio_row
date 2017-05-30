@@ -63,3 +63,6 @@ TW_BRIGHTNESS_PATH := /sys/devices/platform/leds-mt65xx/leds/lcd-backlight/brigh
 TW_CUSTOM_CPU_TEMP_PATH := /sys/devices/virtual/thermal/thermal_zone1/temp
 TW_NO_USB_STORAGE := true
 TW_EXCLUDE_SUPERSU := true
+
+# Use custom init.rc
+TARGET_PROVIDES_INIT_RC := true
