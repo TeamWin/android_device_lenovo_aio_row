@@ -23,3 +23,4 @@ PRODUCT_NAME := full_aio_row
 PRODUCT_BRAND := Lenovo
 PRODUCT_MODEL := Lenovo A7000-a
 PRODUCT_MANUFACTURER := Lenovo
+PRODUCT_BOARD := aio_row
